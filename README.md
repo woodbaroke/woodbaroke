@@ -1,7 +1,7 @@
 ## 🌱 I’m currently learning...
 ![My stats](https://github-readme-stats.vercel.app/api?username=woodbaroke&theme=catppuccin_latte&show_icons=true&count_private=true)
 
-![WakaTime Card](https://github-readme-stats.vercel.app/api/wakatime?username=woodbaroke&theme=catppuccin_latte)
+![WakaTime Card](https://github-readme-stats.vercel.app/api/wakatime?username=woodbaroke&theme=dark)
 
 
 
